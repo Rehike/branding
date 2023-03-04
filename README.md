@@ -1,1 +1,1 @@
-"# Rehike Branding" 
+# Rehike Branding
