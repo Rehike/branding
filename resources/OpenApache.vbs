@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "C:\xampp\apache\bin\httpd.exe", 0, False
